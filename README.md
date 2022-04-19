@@ -1,5 +1,7 @@
 ### Hi!
 
+![White Pink Blue and Yellow Organic Shape Diversity Workshop Webinar Keynote Presentation-11](https://user-images.githubusercontent.com/103961262/164113133-eb48db45-8995-427a-a221-ba373f4b1aca.png)
+
 - 👋 I’m @oakintel
 - 👀 I’m interested in Systems Engineering, Software & Web Development, and Aviation Projects!
 - 🌱 I’m currently learning Phyton and I am enjoying it
