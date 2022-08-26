@@ -4,7 +4,7 @@
 
 - 👋 I’m @oakintel
 - 🤖 I’m interested in Systems Engineering, Software & Web Development, and Aviation!
-- 💬 Ask me about my projects and check out my [Portfolio](https://oakintel.github.io/portfolio/)
+- 💬 Ask me about my projects and check out my [Website](https://oluwasemilore.com)
 - 😄 Pronouns: He/Him/His
 - 📫 You can reach me by [Mail](mailto:oakintel@kent.edu) or on [Linkedin](https://www.linkedin.com/in/sooreakintelure/)
 - ⚡ Fun fact: I have been to over 5 countries, the UK has been my favorite and I can't wait to experience traveling some more. 
